@@ -88,6 +88,25 @@
         <p><small>AI/Automation</small></p>
     </td>
   </tr>
+
+  <tr>
+    <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" width="50" />
+        <p><small>n8n</small></p>
+    </td>
+    <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/131470832?s=200&v=4" width="50" />
+        <p><small>Claude/AI</small></p>
+    </td>
+    <td align="center">
+        <img src="https://img.icons8.com/color/96/000000/cursor.png" width="50" />
+        <p><small>Cursor</small></p>
+    </td>
+    <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="50" />
+        <p><small>Codex</small></p>
+    </td>
+  </tr>
 </table>
 
 
