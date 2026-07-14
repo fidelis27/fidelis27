@@ -91,7 +91,7 @@
 
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" width="50" />
+        <img src="https://api.iconify.design/simple-icons/n8n.svg" width="50" />
         <p><small>n8n</small></p>
     </td>
     <td align="center">
