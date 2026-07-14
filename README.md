@@ -53,7 +53,7 @@
         <p><small>Kubernetes</small></p>
     </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" />
+        <img src="https://api.iconify.design/simple-icons/amazonaws.svg" width="50" />
         <p><small>AWS</small></p>
     </td>
     <td align="center">
@@ -99,11 +99,11 @@
         <p><small>Claude/AI</small></p>
     </td>
     <td align="center">
-        <img src="https://img.icons8.com/color/96/000000/cursor.png" width="50" />
-        <p><small>Cursor</small></p>
+        <img src="https://api.iconify.design/simple-icons/cursor.svg" width="50" />
+        <p><small>Cursor IDE</small></p>
     </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="50" />
+        <img src="https://api.iconify.design/simple-icons/openai.svg" width="50" />
         <p><small>Codex</small></p>
     </td>
   </tr>
