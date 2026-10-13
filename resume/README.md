@@ -68,7 +68,7 @@ I collaborate on planning and backlog refinement with multidisciplinary and Span
 * Support for application reliability through monitoring with New Relic, Kibana, Grafana, and Datadog
 
 ### Invillia
-**Senior Front-End Developer** | Jul 2021 - Oct 2022
+**Mid Front-End Developer** | Jul 2021 - Oct 2022
 **Junior Front-End Developer** | Nov 2020 - Jul 2021
 
 * Development of micro-frontends using Next.js, React, and JavaScript
@@ -78,7 +78,7 @@ I collaborate on planning and backlog refinement with multidisciplinary and Span
 * Agile delivery routines using Kanban
 
 ### Fundação CASA
-**Public Official** | Jun 2011 - Nov 2020
+**Public Employee** | Jun 2011 - Nov 2020
 
 * Built a solid foundation in adaptability, responsibility, and discipline in public service prior to transition to technology
 
@@ -87,7 +87,7 @@ I collaborate on planning and backlog refinement with multidisciplinary and Span
 ## Academic Background
 
 **FATEC Taquaritinga**
-* Bachelor's Degree in Systems Analysis and Development | Feb 2011 - Dec 2014
+* Technologist Degree in Systems Analysis and Development | Feb 2011 - Dec 2014
 
 ---
 
