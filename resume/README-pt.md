@@ -22,7 +22,7 @@ Desenvolvedor Front-End Sênior, formado em Análise e Desenvolvimento de Sistem
 
 Meu trabalho atual também envolve engenharia assistida por IA e automação de workflows com n8n, Claude Code, Codex e Cursor para melhorar produtividade, acelerar entregas e apoiar fluxos de desenvolvimento mais eficientes. Tenho experiência em ambientes de produto em constante evolução, contribuindo para implementação de novas funcionalidades, validação de hipóteses de negócio e evolução de produtos em fase beta e pós-lançamento.
 
-Colabor em planejamento e refinamento de backlog com times multidisciplinares e hispanofalantes, ajudando a entregar soluções alinhadas às necessidades dos usuários e do negócio.
+Colaboro em planejamento e refinamento de backlog com times multidisciplinares e hispanofalantes, ajudando a entregar soluções alinhadas às necessidades dos usuários e do negócio.
 
 ---
 
