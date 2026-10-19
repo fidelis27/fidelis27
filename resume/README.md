@@ -58,7 +58,7 @@ I collaborate on planning and backlog refinement with multidisciplinary and Span
 
 ### Mercado Livre
 **Senior Software Engineer** | Jan 2025 - Present
-**Software Engineer** | Oct 2022 - Jan 2025
+**Software Engineer** | Oct 2022 - Dec 2024
 
 * Development and evolution of micro-frontend applications using React and TypeScript, following Clean Architecture principles and sustainable front-end patterns
 * Design of scalable front-end solutions for large-scale product ecosystems
