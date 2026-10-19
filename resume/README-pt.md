@@ -58,7 +58,7 @@ Colaboro em planejamento e refinamento de backlog com times multidisciplinares e
 
 ### Mercado Livre
 **Engenheiro de Software Sênior** | jan 2025 - atual
-**Engenheiro de Software** | out 2022 - jan 2025
+**Engenheiro de Software** | out 2022 - dez 2024
 
 * Desenvolvimento e evolução de aplicações micro-frontend utilizando React e TypeScript, seguindo princípios de Clean Architecture e padrões front-end sustentáveis
 * Desenho de soluções front-end escaláveis para ecossistemas de produto de grande porte
